@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cpp Pro</string>
+    <string name="loginS">Login</string>
+    <string name="loginB">Login</string>
+    <string name="RegisterDone">Register</string>
+    <string name="enter_username">Enter Email Id</string>
+    <string name="password">Enter Password</string>
+    <string name="ques1_basic">1. What is the output of the following given below?</string>
+    <string name="ans1_basic">HelloWorld</string>
+    <string name="ans2_basic">Hello World</string>
+    <string name="ans3_basic">Hello World!</string>
+    <string name="ques2_basic">2. What is the output of the following given below? </string>
+    <string name="ans1_ques2_basic">Hello World</string>
+    <string name="ans2_ques2_basic">Compilation Error</string>
+    <string name="ans3_ques2_basic">HelloWorld</string>
+    <string name="ques3_basic">3. What is the output of the following given below?</string>
+    <string name="ans1_ques3_basic">A</string>
+    <string name="ans2_ques3_basic">B</string>
+    <string name="ans3_ques3_basic">C</string>
+    <string name="ques4_basic"><![CDATA[4. What is \"#include <iostream>\" here mean?]]></string>
+    <string name="ans1_ques4_basic">Preprocessor Derivative</string>
+    <string name="ans2_ques4_basic">Header File</string>
+    <string name="ans3_ques4_basic">Nothing</string>
+    <string name="title_basic">C++ Quiz</string>
+    <string name="basic_ques_5">5. Check the correct option?</string>
+    <string name="ans1_ques5_basic">Bell Lab</string>
+    <string name="ans2_ques5_basic">Danish Lab</string>
+    <string name="ans3_ques5_basic">Bjarne Lab</string>
+    <string name="finalResultMax">/5</string>
+    <string name="ansResultFinal">/5</string>
+    <string name="ques4_loop">4. What is the output of the following given below?</string>
+    <string name="OptionA">A</string>
+    <string name="OptionB">B</string>
+    <string name="OptionC">C</string>
+    <string name="OptionD">D</string>
+</resources>

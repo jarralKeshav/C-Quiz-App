@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123793183272",
+    "project_id": "cpp-pro",
+    "storage_bucket": "cpp-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123793183272:android:4cd68bee121859a5df5b1d",
+        "android_client_info": {
+          "package_name": "com.example.cpppro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123793183272-ckd50j0cmv16bamdk7dtnrrmhlm0lph5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKfkdsTqwclQlYHafoSHaJILxd3vuJOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123793183272-ckd50j0cmv16bamdk7dtnrrmhlm0lph5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:paddingLeft="@dimen/_16sdp"
+    android:paddingTop="@dimen/_16sdp"
+    android:paddingRight="@dimen/_16sdp"
+    android:paddingBottom="@dimen/_16sdp"
+    tools:context=".forgetActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignBottom="@+id/list_below"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="@dimen/_18sdp"
+        android:layout_marginTop="@dimen/_85sdp"
+        android:layout_marginBottom="3dp"
+        app:srcCompat="@drawable/ic_baseline_username_login" />
+
+    <Button
+        android:id="@+id/buttonForgetEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="@dimen/_68sdp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:layout_marginEnd="@dimen/_68sdp"
+        android:backgroundTint="@color/TrueTone"
+        android:text="Send OTP"
+        android:textColor="#000000"
+
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_80sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:text="Forget Password"
+        android:textColor="@color/TrueTone"
+        android:textSize="@dimen/_33sdp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/forgetEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="110sp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:background="@color/black"
+        android:ems="10"
+        android:hint="@string/enter_username"
+        android:inputType="textPersonName"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+
+        />
+
+
+    <ListView
+        android:id="@+id/list_below"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_1sdp"
+        android:layout_below="@+id/forgetEmail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="@dimen/_18sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:background="@color/white" />
+
+
+</RelativeLayout>

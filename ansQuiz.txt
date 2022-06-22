@@ -1,0 +1,914 @@
+Conditional:
+
+Decision Control statements in 
+C++ can be implemented using
+
+a) if
+b) if-else
+c) Conditional Operator
+d) All of the above
+d
+
+2
+If you have to make decision based 
+on multiple choices, which of the 
+following is best suited?
+a) if
+b) if-else
+c) if-else-if
+d) All of the above
+
+c
+
+3
+
+Which of the following can replace 
+a simple if-else construct?
+
+a) Ternary operator
+b) while loop
+c) do-while loop
+d) fop loop
+
+
+
+a
+
+
+4
+The if...else statement can be 
+replaced by which operator?
+
+a) Bitwise operator
+b) Conditional operator
+c) Multiplicative operator
+d) Addition operator
+
+
+b
+
+
+5
+The destination statement for 
+the goto label is identified 
+by what label?
+
+a) $
+b) @
+c) *
+d) :
+
+
+d
+
+
+Array:
+
+
+
+1. Which of the following correctly 
+declares an array?
+
+A. int anarray[10];
+B. int anarray;
+C. anarray{10};
+D. array anarray[10];
+
+A
+
+2. What is the index number of the 
+last element of an array with 29 
+elements?
+
+A. 29
+B. 28
+C. 0
+D. Programmer-defined
+
+
+B
+
+3. Which of the following is 
+a two-dimensional array?
+
+A. array anarray[20][20];
+B. int anarray[20][20];
+C. int array[20, 20];
+D. char array[20];
+
+B
+
+4. Which of the following correctly 
+accesses the seventh element stored
+in foo, an array with 100 elements?
+
+A. foo[6];
+B. foo[7];
+C. foo(7);
+D. foo;
+
+
+A
+
+5. Which of the following gives 
+the memory address of the first 
+element in array foo, an array 
+with 100 elements?
+
+A. foo[0];
+B. foo;
+C. &foo;
+D. foo[1];
+
+A
+
+
+
+String:
+
+
+
+1. How many types of representation
+are in the string?
+
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+b
+
+2. What is the header file for the 
+string class?
+
+a) #include<ios>
+b) #include<str>
+c) #include<string>
+d) #include<stio>
+
+
+c
+
+3. Which is used to return the 
+   number of characters in the 
+   string?
+
+a) length
+b) size
+c) both size & length
+d) name
+
+c
+
+
+4. Which method do we use to append 
+ more than one character at a time?
+
+a) append
+b) operator+=
+c) data
+d) both append & operator+=
+
+
+d
+
+
+5. A String is terminated by a
+
+a) Null character
+b) Boolean expression
+c) Semicolon
+d) All of them
+
+a
+
+
+Visual studio ans
+
+
+
+
+	6) #include<userdefined.h>
+
+	1) #include<userdefined>
+	2) #include "userdefined.h"
+	3) < include > "userdefined.h"
+	4) Both A and B
+
+
+	Ans: 4
+
+
+		7) Which of the following is 
+		   the correct identifier?
+
+		   A) $var_name
+		   B) VAR_123
+		   C) varname@
+		   D) None of the above
+
+
+		   Ans: B
+
+
+
+		8) Which of the following is 
+		   the address operator ?
+
+		   A) @
+		   B) #
+		   C) &
+		   D) %
+
+
+		   Ans: c
+
+
+		9) The programming language that has
+		   the ability to create new data 
+		   types is called___.
+
+		   A) Overloaded
+		   B) Encapsulated
+		   C) Reprehensible
+		   D) Extensible
+
+
+		   Ans: D
+
+
+		10) The C++ language is ______ object
+			oriented language.
+
+		   A) Pure Object oriented
+		   B) Not Object oriented
+		   C) Semi Object - oriented 
+			  or Partial Object - oriented
+		   D) None of the above
+
+
+
+	   Ans: C
+
+		Loops for loop
+
+
+
+		1) Loops in C++ are implemented 
+		   using?
+
+		   A) while loop
+		   B) For loop
+		   C) Do while loop
+		   D) All the above
+
+		   d
+		
+
+		2) Which loop is faster in C++?
+		   
+		   A) for
+		   B) while
+		   C) do-while
+		   D) All work at same speed
+
+		   d
+
+		3) What is the way to suddenly
+		come ot of or quit any loop
+		in C++?
+		 A) continue;
+		 B) break;
+		 C) leave;
+		 D) quit;
+
+
+		 4) Choose a correct do while syntax?
+		   
+		  A) dowhile(condition)
+			{ statement }		
+
+		  B) do while(condition)
+			{ statement }	
+
+		  C) do{
+				statements
+			   } while(condition)
+			
+
+		  D) do { statements } 
+			 while (condition);
+
+				Ans: D
+
+		  5) Consider the following loop:
+		  for (int i = 0; i < 5; i++);
+		  
+		  A) Compilation Error
+		  B) 5
+		  C) C
+		  D) Garbage value
+
+
+		6) Choose a right C++ Statement?
+
+		A) Loops or Repetition block executes
+		   a group of statements repeatedly.
+		B) Loop is usually executed as long
+		   as a condition is met.
+		C) Loops usually take advantage of 
+		   Loop Counter
+		D) All the above.
+
+		Ans:D
+
+
+		7) Choose a correct while loop 
+		   syntax?
+		   
+		  A) while (condition)
+		  {
+			  statements
+		  }	
+
+		  B) {
+		     statements
+		      }while (condition)
+
+		  C) while (condition);
+			  {
+			    statements
+			  }
+
+		   D) while()
+			  {
+				if (condition)
+				{
+					statements
+				}
+			  }
+
+
+
+	   Ans: A
+
+
+		   8) Choose a correct for loop 
+		      syntax?
+
+		      A) for(init ;cond ;incre)
+
+			  B) for(decl ;cond ;incre)
+
+			  C) for(decl ;incre ;cond)
+
+			  D) for(init ;cond ;incre;)
+
+
+
+		Ans: A
+
+		
+			
+						   9) What is the output of C++ 
+						      Program ?
+
+						   int main()
+							{
+						      while (true)
+						      {
+							   cout<<"RABBIT";
+							   break;
+						       }
+
+						   return 0;
+							 }
+						
+						A) RABBIT
+						B) RABBIT printed unlimited times
+						C) No output
+						D) Compiler error
+
+
+
+					Ans: d
+
+
+							10) What is the output of C++ 
+							    Program ?
+
+							int main()
+							{
+							int k;
+
+							for (k = 1; k <= 5; k++);
+							{
+								printf("%d ", k);
+							}
+
+							return 0;
+							}
+
+
+
+						A) 1 2 3 4 5
+						B) 1 2 3 4
+						C) 6
+						D) 5
+
+
+
+						Ans: C
+
+
+
+
+conditional  visual
+
+
+
+
+
+
+
+1) Decision control statements
+   be implemented using:
+
+   A) if
+   B) if-else
+   C) Conditional operator
+   D) All the above
+
+
+
+
+   Ans: D
+
+
+	   
+	   2) If you have to make decision 
+	      based on multiple choices, which
+	      of the following is best suited ?
+	   
+	      a) if
+	      b) if - else
+	      c) if - else - if
+	      d) All of the above
+
+
+
+	   c
+
+
+
+	   3) Which of the following can 
+		  replace a simple if - else 
+		  construct ?
+
+		   a) Ternary operator
+		   b) while loop
+		   c) do - while loop
+		   d) fop loop
+
+
+
+	   Ans: a
+
+
+
+	   
+	  4) The if...else statement can be
+	     replaced by which operator ?
+
+		   a) Bitwise operator
+		   b) Conditional operator
+		   c) Multiplicative operator
+		   d) Addition operator
+
+
+	   b
+
+
+
+	   
+	  5) The destination statement for
+	     the goto label is identified
+	     by what label ?
+
+		a) $
+		b) @
+		c) *
+		d) :
+
+
+	   d
+
+
+		   6) Choose a syntax for 
+		      Ternary Operator:
+
+		     A) cond ? exp1 : exp2
+		     B) cond : exp1 ? exp2
+		     C) cond ? exp1 < exp2
+		     D) cond < exp1 ? exp2
+
+
+
+		 Ans: A
+
+
+
+				 7) What is the output of the C++
+				    statement ?
+				 
+				    int main()
+					{
+						int a = 0;
+						a = 5 < 2 ? 4 : 3;
+						cout << a;
+
+						return 0;
+					}
+
+
+
+			 A) 4
+			 B) 3
+			 C) 5
+			 D) 2
+
+
+			 Ans: B
+
+
+
+				8) What is the output of the C++
+				   Program. ?
+
+					int main()
+					{
+					if (4 < 5)
+					cout<<"Hurray..\n";
+					cout<<"Yes";
+					else
+					cout<<"England"
+
+					 return 0;
+					}
+
+
+			 A) Hurray..Yes
+			 B) Hurray..
+			 Yes
+				 C) Compiler error
+				 D) None of the above
+
+
+				 Ans: C
+
+
+
+			  9) What is the output of C++
+				 Program ?
+
+				 int main()
+				 {
+				 if (10 > 9)
+				 cout<<"Singapore\n";
+				 else if (4 % 2 == 0)
+			     cout<<"England\n";
+				 cout<<"Poland";
+				 return 0;
+				 }
+
+
+
+				A) Singapore
+				B) Singapore
+					Poland
+				 C) Singapore
+				    England
+					Poland
+				 D) England
+					Poland
+
+
+
+				Ans: B
+
+
+
+
+					10) What is the output of C++
+						Program ?
+
+						int main()
+						{
+						if ("abc")
+						{
+						cout<<"India\n";
+						}
+						if ('c')
+						{
+						cout<<"Honey\n";
+						}
+						cout<<"ZING";
+
+						return 0;
+						}
+
+
+
+				A) ZING
+				B) Honey
+				ZING
+					C) India
+					ZING
+					D) India
+					Honey
+					ZING
+
+
+
+
+				Ans: D
+
+
+
+Arrayz visual
+
+
+
+
+1) Which of the following 
+   correctly declares an 
+   array ?
+
+	A) int anarray[10];
+	B) int anarray;
+	C) anarray{ 10 };
+	D) array anarray[10];
+
+
+
+A
+
+
+2) What is the index number of 
+   the last element of an array
+   with 29 elements ?
+
+    A) 29
+	B) 28
+	C) 0
+	D) Programmer - defined
+
+
+B
+
+
+3) Which of the following is
+   a two - dimensional array ?
+
+	A) array anarray[20][20];
+	B) int anarray[20][20];
+	C) int array[20, 20];
+	D) char array[20];
+
+B
+
+4) Which of the following correctly
+   accesses the seventh element 
+   stored in foo, an array with 
+   100 elements ?
+
+	A) foo[6];
+	B) foo[7];
+	C) foo(7);
+	D) foo;
+
+
+A
+
+
+
+5)Which of the following gives
+  the memory address of the first
+  element in array foo, an array
+  with 100 elements ?
+
+	A)foo[0];
+	B)foo;
+	C)& foo;
+	D)foo[1];
+
+A
+
+6) Which of the following refers 
+  to characteristics of an array ?
+
+  A) An array is a set 
+     of similar data items
+  B)An array is a set of
+    distinct data items
+  C) An array can hold 
+     different types of 
+	 datatypes
+  D) None of the above
+
+
+  ans: a
+
+
+
+	7) Which of the following gives 
+	   the 4th element of the array ?
+
+	   A) Array[0];
+	   B) Array[0];
+	   C) Array[3];
+       D) None of the above
+
+
+	   Ans: c
+
+
+8)What is the output of the 
+  given program ?
+
+   #include <iostream>  
+   using namespace std;
+   int main()
+	{
+	 int array[] = {10,20,30};
+	 cout << -2[array];
+	 return 0;
+	 }
+
+
+
+	   A) - 15
+	   B) - 30
+	   C) Compiler error
+	   D) Garbage value
+
+
+		   Answer : B
+
+
+		   9) Which type of memory is used 
+		      by an Array in C++ programming
+		      language ?
+
+		      A) Contiguous
+		      B) None - contiguous
+		      C) Both A and B
+		      D) Not mentioned
+
+
+			  Answer : A
+
+
+		   10) Which of the following can 
+		       be considered as the object
+		       of an array ?
+
+		       A) Index of an array
+		       B) Elements of the Array
+		       C) Functions of the Array
+		       D) All of the above
+
+
+		   Answer : B
+
+
+string visual
+
+
+
+1) How many types of representation
+   are in the string ?
+
+   A) 1
+   B) 2
+   C) 3
+   D) 4
+
+
+b
+
+2) What is the header file for the
+   string class ?
+
+   A) #include<ios>
+   B) #include<str>
+   C) #include<string>
+   D) #include<stio>
+
+
+c
+
+3) Which is used to return the
+   number of characters in the
+   string ?
+
+   A) length
+   B) size
+   C) both size& length
+   D) name
+
+c
+
+
+4) Which method do we use 
+   to append more than one
+   character at a time ?
+
+   A) append
+   B) operator+=
+   C) data
+   D) both append& operator+=
+
+
+d
+
+
+5) A String is terminated by a
+
+   A) Null character
+   B) Boolean expression
+   C) Semicolon
+   D) All of them
+
+a
+
+6) Which string method helps 
+   find length of string ?
+
+   A) stringLength()
+   B) strlen
+   C) strdup
+   D)both i & ii
+
+
+    
+Correct Option : B.
+
+7) Which of the following function 
+   duplicates a string ?
+
+    A) strnset
+    B) strstr
+    C) strdup
+    D) stricmp
+
+
+
+
+Explanation
+Correct Option : C.
+
+
+
+8) To receive multi - word string 
+   from keyboard which of the 
+   function is more appropriate ?
+
+    A) Scanf
+    B) gets()
+    C) both
+    D) None of the above
+
+
+Explanation
+Correct Option : B.
+
+
+9) A string in C++ is
+
+  A) 1 - D Array of Character
+  B) 2 - D Array of Character
+  C) Any of i & ii
+  D) None of the above
+
+
+
+Explanation
+Correct Option : A
+
+
+
+
+10) A String constant in C++
+    terminated by
+
+    A) '\O'
+    B) '\\O'
+    C) "
+    D) " "
+
+
+
+Explanation
+Correct Option : A.
